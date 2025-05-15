@@ -1,0 +1,11 @@
+edugote-cash-gift/
+├── index.html            (your existing HTML file)
+├── css/
+│   └── style.css         (extracted CSS from HTML)
+├── js/
+│   ├── app.js            (main JavaScript file)
+│   ├── alladz.js         (advertisement script)
+│   └── wow.js            (animation script)
+├── img/                  (image assets)
+├── README.md             (project documentation)
+└── LICENSE               (license file)
